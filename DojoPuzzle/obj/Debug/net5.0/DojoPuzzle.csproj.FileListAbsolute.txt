@@ -1,0 +1,15 @@
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\bin\Debug\net5.0\DojoPuzzle.exe
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\bin\Debug\net5.0\DojoPuzzle.deps.json
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\bin\Debug\net5.0\DojoPuzzle.runtimeconfig.json
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\bin\Debug\net5.0\DojoPuzzle.runtimeconfig.dev.json
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\bin\Debug\net5.0\DojoPuzzle.dll
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\bin\Debug\net5.0\ref\DojoPuzzle.dll
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\bin\Debug\net5.0\DojoPuzzle.pdb
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\obj\Debug\net5.0\DojoPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\obj\Debug\net5.0\DojoPuzzle.AssemblyInfoInputs.cache
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\obj\Debug\net5.0\DojoPuzzle.AssemblyInfo.cs
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\obj\Debug\net5.0\DojoPuzzle.csproj.CoreCompileInputs.cache
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\obj\Debug\net5.0\DojoPuzzle.dll
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\obj\Debug\net5.0\ref\DojoPuzzle.dll
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\obj\Debug\net5.0\DojoPuzzle.pdb
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\DojoPuzzle\obj\Debug\net5.0\DojoPuzzle.genruntimeconfig.cache

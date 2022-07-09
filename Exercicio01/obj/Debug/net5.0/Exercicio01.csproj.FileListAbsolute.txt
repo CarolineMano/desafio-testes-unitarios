@@ -1,0 +1,16 @@
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\bin\Debug\net5.0\Exercicio01.exe
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\bin\Debug\net5.0\Exercicio01.deps.json
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\bin\Debug\net5.0\Exercicio01.runtimeconfig.json
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\bin\Debug\net5.0\Exercicio01.runtimeconfig.dev.json
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\bin\Debug\net5.0\Exercicio01.dll
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\bin\Debug\net5.0\ref\Exercicio01.dll
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\bin\Debug\net5.0\Exercicio01.pdb
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\obj\Debug\net5.0\Exercicio01.csproj.AssemblyReference.cache
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\obj\Debug\net5.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\obj\Debug\net5.0\Exercicio01.AssemblyInfoInputs.cache
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\obj\Debug\net5.0\Exercicio01.AssemblyInfo.cs
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\obj\Debug\net5.0\Exercicio01.csproj.CoreCompileInputs.cache
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\obj\Debug\net5.0\Exercicio01.dll
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\obj\Debug\net5.0\ref\Exercicio01.dll
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\obj\Debug\net5.0\Exercicio01.pdb
+c:\Users\CEMM\My Private Documents\Treinamento\04 - TDD\DESAFIO.TDD\Exercicio01\obj\Debug\net5.0\Exercicio01.genruntimeconfig.cache
